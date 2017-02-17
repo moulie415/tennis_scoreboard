@@ -1,0 +1,35 @@
+.button-class {
+    -fx-background-color: #326500;
+    -fx-text-fill: #FCFE04;
+    -fx-border-color: gray;
+    -fx-font-size: 15px;
+}
+
+.button-class:hover {
+    -fx-background-color: #59b300;
+}
+
+.button-class:pressed {
+    -fx-background-color: #B8CFE5;
+}
+
+.scoring {
+    -fx-background-color: #000;
+    -fx-background-radius: 0;
+    -fx-text-fill: #FCFE04;
+    -fx-font-size: 30px;
+    -fx-font-weight: bold;
+}
+
+.names-section {
+    -fx-background-color: #000;
+    -fx-background-radius: 0;
+    -fx-text-fill: #FCFE04;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+}
+
+.scoring-text {
+    -fx-text-fill: #FCFE04;
+    -fx-font-size: 10px;
+}
